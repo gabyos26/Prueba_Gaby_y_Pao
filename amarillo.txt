@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Amarillo es el color del sol 
+=======
+El arbol no es amarillo 
+>>>>>>> f08e882f729fde82a9d89f2a5690469f55ab0c14
